@@ -24,22 +24,15 @@ Le site web sert ainsi davantage de résumé des vidéos ou encore de base que v
 En cas de besoin vous pouvez facilement basculer du site à un moment d’une vidéo donnée en cliquant sur les titres des paragraphes des pages web.
 
 
-
 # FAQ
 Voici quelques réponses à des questions fréquemment posées :
-- **Est-ce que suivre ce cours permet d'obtenir une certification ?**
-
-  > Non. Pour proposer une certification, il faudrait pouvoir vous évaluer or le contenu n'a pas été prévu pour (contrairement à un MOOC par exemple). Cette demande étant fréquente, des réflexions sont menées pour essayer d'en proposer une pour des éditions futures du cours.
-
-- **Combien de temps consacrer à ce cours ?**
-
-  > Pour chaque semaine, il y a environ 2h30/3h de contenu vidéo. Avec le temps consacré à la prise de notes et celui pour jouer avec les *notebooks*, une estimation totale de 5h par semaine semble raisonnable. Pour la suite, cela dépend du niveau d'immersion que vous voulez atteindre dans un sujet donné (lire les articles donnés en référence, appliquer ce qui a été vu en classe à vos propres projets, etc.).
-
-- **Où poser une question à l'issue du visionnage d'une vidéo ?**
-
-  > Vous pouvez la poser directement (en anglais) dans la section commentaires sous la vidéo YouTube en question, Alfredo se fera un plaisir d'y répondre. Si cette question porte sur un point précis de la vidéo, pensez à indiquer l'horodatage.
-  > Vous pouvez le faire également sur le [Discord](https://discord.gg/CthuqsX8Pb) de la classe dédié expressément aux étudiants. Il sert également à coordonner des groupes de visionnage, discuter des devoirs, suggérer des améliorations ou plus généralement pour tout sujet lié au cours.
-  
+- **Est-ce que suivre ce cours permet d'obtenir une certification ?**  
+> Non. Pour proposer une certification, il faudrait pouvoir vous évaluer or le contenu n'a pas été prévu pour (contrairement à un MOOC par exemple). Cette demande étant fréquente, des réflexions sont menées pour essayer d'en proposer une pour des éditions futures du cours.
+- **Combien de temps consacrer à ce cours ?**  
+> Pour chaque semaine, il y a environ 2h30/3h de contenu vidéo. Avec le temps consacré à la prise de notes et celui pour jouer avec les *notebooks*, une estimation totale de 5h par semaine semble raisonnable. Pour la suite, cela dépend du niveau d'immersion que vous voulez atteindre dans un sujet donné (lire les articles donnés en référence, appliquer ce qui a été vu en classe à vos propres projets, etc.).
+- **Où poser une question à l'issue du visionnage d'une vidéo ?**  
+> Vous pouvez la poser directement (en anglais) dans la section commentaires sous la vidéo YouTube en question, Alfredo se fera un plaisir d'y répondre. Si cette question porte sur un point précis de la vidéo, pensez à indiquer l'horodatage.
+> Vous pouvez le faire également sur le [Discord](https://discord.gg/CthuqsX8Pb) de la classe dédié expressément aux étudiants. Il sert également à coordonner des groupes de visionnage, discuter des devoirs, suggérer des améliorations ou plus généralement pour tout sujet lié au cours.
 - **Puis-je utiliser ce cours?**  
 > Bien sûr, le cours est placé sous la [Licence internationale Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 > Cela signifie que :
