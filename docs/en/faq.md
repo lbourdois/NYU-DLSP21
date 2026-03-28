@@ -51,7 +51,6 @@ Here are some answers to frequently asked questions:
 >   note = "[Online; accessed <today>]"  
 > }
 > ```
-`
 
 
 
